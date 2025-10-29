@@ -56,17 +56,30 @@
   - **Rating**: ⭐⭐⭐⭐⭐
   - **Description**: Extensive collection of workflow examples and use cases.
 
+### Practice Platforms
+- [KillerCoda ArgoProject labs](https://killercoda.com/argoproj/course/argo-workflows/)
+  - **Type**: FREE
+  - **Format**: Interactive Labs
+  - **Rating**: ⭐⭐⭐⭐
+  - **Description**: Browser-based labs for practicing Argo Workflows.
+
+- [KillerCoda ArgoProject labs](https://killercoda.com/mabusaa/course/argocd-endusers-scenarios)
+  - **Type**: FREE
+  - **Format**: Interactive Labs
+  - **Rating**: No rating yet
+  - **Description**: Browser-based labs for practicing Argo CD.
+
 ### Video Content
 - [Argo CD Tutorial by TechWorld with Nana](https://www.youtube.com/watch?v=MeU5_k9ssrs)
   - **Type**: FREE
   - **Format**: YouTube Video
-  - **Rating**: ⭐⭐⭐⭐⭐
+  - **Rating**: No rating yet
   - **Description**: Excellent Argo CD tutorial covering installation, configuration, and GitOps workflows.
 
 - [Argo Workflows Tutorial by DevOps Toolkit](https://www.youtube.com/watch?v=UMaivwrAyTA)
   - **Type**: FREE
   - **Format**: YouTube Video
-  - **Rating**: ⭐⭐⭐⭐⭐
+  - **Rating**: No rating yet
   - **Description**: Comprehensive guide to using Argo Workflows for CI/CD and data processing.
 
 - [CNCF Argo Project Presentations](https://www.youtube.com/c/cloudnativefdn)
@@ -79,7 +92,7 @@
 - [Argo Project Slack Community](https://argoproj.github.io/community/join-slack)
   - **Type**: FREE
   - **Format**: Community Chat
-  - **Rating**: ⭐⭐⭐⭐⭐
+  - **Rating**: No rating yet
   - **Description**: Active community for getting help and discussing Argo Project tools.
 
 - [Argo Project GitHub Discussions](https://github.com/argoproj/argo-cd/discussions)
@@ -98,7 +111,7 @@
 - [Argo Project Blog](https://blog.argoproj.io/)
   - **Type**: FREE
   - **Format**: Blog Posts
-  - **Rating**: ⭐⭐⭐⭐⭐
+  - **Rating**: No rating yet
   - **Description**: Official blog with updates, best practices, and case studies.
 
 - [GitOps with Argo CD Guide](https://codefresh.io/learn/argo-cd/)
@@ -116,11 +129,17 @@
   - **Rating**: ⭐⭐⭐⭐
   - **Description**: Browser-based labs for practicing Argo Project tools and workflows. Subscription gives access to many other courses and are generally good.
 
+- [Linux Foundation DevOps and Workflow Management with Argo (LFS256)](https://trainingportal.linuxfoundation.org/courses/devops-and-workflow-management-with-argo-lfs256)
+  - **Type**: PAID ($99) - Can often be bought at a big discount when buying the exam voucher
+  - **Format**: Interactive Labs
+  - **Rating**: ⭐⭐
+  - **Description**: A course covering the basics. Lacks extensive explanations, labs are limited with a lot of broken links.
+
 ### Books
 - [GitOps and Kubernetes by Billy Yuen](https://www.manning.com/books/gitops-and-kubernetes)
   - **Type**: PAID (~$40)
   - **Format**: Book
-  - **Rating**: ⭐⭐⭐⭐
+  - **Rating**: No rating yet
   - **Description**: Comprehensive guide covering GitOps with Argo CD and other tools.
 
 ## 🎯 Exam Tips & Strategy
