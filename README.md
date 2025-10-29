@@ -13,17 +13,17 @@ This repository serves as a curated collection of publicly available resources f
 ## 🎯 Available Certifications
 
 ### Kubernetes Certifications
-- [**CKA** (Certified Kubernetes Administrator)](./CKA/) - ⭐⭐⭐⭐⭐
-- [**CKAD** (Certified Kubernetes Application Developer)](./CKAD/) - ⭐⭐⭐⭐⭐
-- [**CKS** (Certified Kubernetes Security Specialist)](./CKS/) - ⭐⭐⭐⭐⭐
+- [**CKA** (Certified Kubernetes Administrator)](./CKA/)
+- [**CKAD** (Certified Kubernetes Application Developer)](./CKAD/)
+- [**CKS** (Certified Kubernetes Security Specialist)](./CKS/)
 
 ### Cloud Native Certifications
-- [**CAPA** (Certified Associate in Python Programming)](./CAPA/) - ⭐⭐⭐⭐
-- [**CGOA** (Cloud Native Computing Foundation - GitOps Associate)](./CGOA/) - ⭐⭐⭐⭐
+- [**CAPA** (Certified Associate in Python Programming)](./CAPA/)
+- [**CGOA** (Cloud Native Computing Foundation - GitOps Associate)](./CGOA/)
 
 ### Microsoft Azure Certifications
-- [**AZ-104** (Azure Administrator Associate)](./AZ-104/) - ⭐⭐⭐⭐⭐
-- [**AZ-400** (DevOps Engineer Expert)](./AZ-400/) - ⭐⭐⭐⭐⭐
+- [**AZ-104** (Azure Administrator Associate)](./AZ-104/)
+- [**AZ-400** (DevOps Engineer Expert)](./AZ-400/)
 
 ## 💡 Resource Rating System
 
