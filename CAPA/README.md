@@ -56,12 +56,6 @@
   - **Rating**: ⭐⭐⭐⭐⭐
   - **Description**: Extensive collection of workflow examples and use cases.
 
-- [Katacoda Argo Scenarios](https://katacoda.com/courses/argo)
-  - **Type**: FREE
-  - **Format**: Interactive Labs
-  - **Rating**: ⭐⭐⭐⭐
-  - **Description**: Browser-based labs for practicing Argo Project tools.
-
 ### Video Content
 - [Argo CD Tutorial by TechWorld with Nana](https://www.youtube.com/watch?v=MeU5_k9ssrs)
   - **Type**: FREE
