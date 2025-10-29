@@ -109,25 +109,6 @@
 
 ## 💰 PAID Resources
 
-### Video Courses
-- [Linux Foundation CAPA Course](https://training.linuxfoundation.org/training/introduction-to-argo-cd-lfs169/)
-  - **Type**: PAID (~$99)
-  - **Format**: Official Course
-  - **Rating**: ⭐⭐⭐⭐⭐
-  - **Description**: Official CAPA preparation course from the Linux Foundation.
-
-- [Udemy Argo CD Complete Guide](https://www.udemy.com/course/argo-cd-complete-guide/)
-  - **Type**: PAID (~$50-150, often on sale)
-  - **Format**: Video Course
-  - **Rating**: ⭐⭐⭐⭐
-  - **Description**: Comprehensive Argo CD course covering GitOps and deployment strategies.
-
-- [A Cloud Guru GitOps with Argo CD](https://acloudguru.com/course/gitops-with-argocd)
-  - **Type**: PAID (~$39/month)
-  - **Format**: Video Course + Labs
-  - **Rating**: ⭐⭐⭐⭐
-  - **Description**: Hands-on course covering Argo CD implementation and best practices.
-
 ### Practice Platforms
 - [KodeKloud Argo Project Labs](https://kodekloud.com/courses/argo-cd/)
   - **Type**: PAID (~$39/month)
