@@ -1,5 +1,7 @@
 # AZ-104 (Azure Administrator Associate) Study Resources ☁️
 
+> **⚠️ Note**: This file has not been manually verified and may contain errors. Please verify all information independently before relying on it for your certification preparation.
+
 ## 📊 Exam Information
 
 - **Exam Code**: AZ-104
