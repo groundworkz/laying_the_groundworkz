@@ -10,12 +10,11 @@
 - **Questions**: ~60 questions
 - **Passing Score**: 75%
 - **Cost**: $250 USD
-- **Validity**: 3 years
+- **Validity**: 2 years
 
 ### 🔗 Exam Registration & Discounts
 - [Official Exam Registration](https://training.linuxfoundation.org/certification/certified-argo-project-associate-capa/)
-- [Linux Foundation Training Deals](https://training.linuxfoundation.org/certification/certified-argo-project-associate-capa/#discounts)
-- [CNCF Member Discounts](https://www.cncf.io/certification/capa/) - Check for member organization discounts
+- [Linux Foundation](https://training.linuxfoundation.org) - Usually there are several discounts available during a month. While preparing for the exam, check this site regularly or subscribe to the newsletter.
 
 ## 📚 FREE Resources
 
