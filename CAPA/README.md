@@ -110,24 +110,18 @@
 ## 💰 PAID Resources
 
 ### Practice Platforms
-- [KodeKloud Argo Project Labs](https://kodekloud.com/courses/argo-cd/)
-  - **Type**: PAID (~$39/month)
+- [KodeKloud Argo Project Labs](https://learn.kodekloud.com/courses/gitops-with-argocd)
+  - **Type**: PAID (from $15/month)
   - **Format**: Interactive Labs
   - **Rating**: ⭐⭐⭐⭐
-  - **Description**: Browser-based labs for practicing Argo Project tools and workflows.
+  - **Description**: Browser-based labs for practicing Argo Project tools and workflows. Subscription gives access to many other courses and are generally good.
 
 ### Books
 - [GitOps and Kubernetes by Billy Yuen](https://www.manning.com/books/gitops-and-kubernetes)
-  - **Type**: PAID (~$50)
+  - **Type**: PAID (~$40)
   - **Format**: Book
   - **Rating**: ⭐⭐⭐⭐
   - **Description**: Comprehensive guide covering GitOps with Argo CD and other tools.
-
-- [Argo CD in Action by Kent Rancourt](https://www.manning.com/books/argo-cd-in-action)
-  - **Type**: PAID (~$45)
-  - **Format**: Book
-  - **Rating**: ⭐⭐⭐⭐⭐
-  - **Description**: Practical guide to mastering Argo CD for GitOps workflows.
 
 ## 🎯 Exam Tips & Strategy
 
