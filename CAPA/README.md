@@ -142,26 +142,6 @@
    - Progressive delivery strategies
    - Canary and blue-green deployments
 
-### Key Argo Project Components
-```bash
-# Argo CD CLI Commands
-argocd app create guestbook --repo https://github.com/argoproj/argocd-example-apps.git --path guestbook --dest-server https://kubernetes.default.svc --dest-namespace default
-argocd app sync guestbook
-argocd app get guestbook
-argocd app delete guestbook
-
-# Argo Workflows CLI Commands
-argo submit hello-world.yaml
-argo list
-argo get hello-world-xxxx
-argo logs hello-world-xxxx
-
-# Argo Rollouts CLI Commands
-kubectl argo rollouts create rollout my-rollout
-kubectl argo rollouts promote my-rollout
-kubectl argo rollouts abort my-rollout
-```
-
 ### Essential Argo Concepts
 - **GitOps Principles**: Declarative, versioned, immutable, pulled automatically
 - **Application of Applications**: Managing multiple applications with Argo CD
