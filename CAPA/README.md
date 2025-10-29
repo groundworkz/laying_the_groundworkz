@@ -122,18 +122,19 @@
 
 ## 💰 PAID Resources
 
+### Interactive Learning
+- [Linux Foundation DevOps and Workflow Management with Argo (LFS256)](https://trainingportal.linuxfoundation.org/courses/devops-and-workflow-management-with-argo-lfs256)
+  - **Type**: PAID ($99) - Can often be bought at a big discount when buying the exam voucher
+  - **Format**: Interactive Labs
+  - **Rating**: ⭐⭐
+  - **Description**: A course covering the basics. Lacks extensive explanations, labs are limited with a lot of broken links.
+
 ### Practice Platforms
 - [KodeKloud Argo Project Labs](https://learn.kodekloud.com/courses/gitops-with-argocd)
   - **Type**: PAID (from $15/month)
   - **Format**: Interactive Labs
   - **Rating**: ⭐⭐⭐⭐
   - **Description**: Browser-based labs for practicing Argo Project tools and workflows. Subscription gives access to many other courses and are generally good.
-
-- [Linux Foundation DevOps and Workflow Management with Argo (LFS256)](https://trainingportal.linuxfoundation.org/courses/devops-and-workflow-management-with-argo-lfs256)
-  - **Type**: PAID ($99) - Can often be bought at a big discount when buying the exam voucher
-  - **Format**: Interactive Labs
-  - **Rating**: ⭐⭐
-  - **Description**: A course covering the basics. Lacks extensive explanations, labs are limited with a lot of broken links.
 
 ### Books
 - [GitOps and Kubernetes by Billy Yuen](https://www.manning.com/books/gitops-and-kubernetes)
