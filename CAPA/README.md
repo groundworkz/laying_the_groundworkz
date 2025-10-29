@@ -101,12 +101,6 @@
   - **Rating**: ⭐⭐⭐⭐⭐
   - **Description**: Official blog with updates, best practices, and case studies.
 
-- [CNCF Argo Content](https://www.cncf.io/blog/tag/argo/)
-  - **Type**: FREE
-  - **Format**: Blog Posts
-  - **Rating**: ⭐⭐⭐⭐
-  - **Description**: CNCF content featuring Argo Project implementations and use cases.
-
 - [GitOps with Argo CD Guide](https://codefresh.io/learn/argo-cd/)
   - **Type**: FREE
   - **Format**: Comprehensive Guide
