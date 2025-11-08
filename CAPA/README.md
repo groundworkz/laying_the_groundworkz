@@ -53,8 +53,8 @@
 - [Argo Workflows Examples](https://github.com/argoproj/argo-workflows/tree/master/examples)
   - **Type**: FREE
   - **Format**: GitHub Repository
-  - **Rating**: ⭐⭐⭐⭐⭐
-  - **Description**: Extensive collection of workflow examples and use cases.
+  - **Rating**: ⭐⭐⭐⭐
+  - **Description**: Extensive collection of workflow examples and use cases. Lacks guiding, but great when diving deeper into a subject.
 
 ### Practice Platforms
 - [KillerCoda ArgoProject labs](https://killercoda.com/argoproj/course/argo-workflows/)
@@ -66,8 +66,8 @@
 - [KillerCoda ArgoProject labs](https://killercoda.com/mabusaa/course/argocd-endusers-scenarios)
   - **Type**: FREE
   - **Format**: Interactive Labs
-  - **Rating**: No rating yet
-  - **Description**: Browser-based labs for practicing Argo CD.
+  - **Rating**: ⭐⭐⭐⭐
+  - **Description**: Browser-based labs for practicing Argo CD. Sometimes requires own cloud subscription.
 
 ### Video Content
 - [Argo CD Tutorial by TechWorld with Nana](https://www.youtube.com/watch?v=MeU5_k9ssrs)
@@ -85,8 +85,8 @@
 - [CNCF Argo Project Presentations](https://www.youtube.com/c/cloudnativefdn)
   - **Type**: FREE
   - **Format**: YouTube Videos
-  - **Rating**: ⭐⭐⭐⭐
-  - **Description**: Conference talks and deep dives into Argo Project features and use cases.
+  - **Rating**: ⭐⭐⭐
+  - **Description**: Conference talks and deep dives into Argo Project features and use cases. May not be best suited for studying.
 
 ### Community Resources
 - [Argo Project Slack Community](https://argoproj.github.io/community/join-slack)
@@ -134,7 +134,7 @@
   - **Type**: PAID (from $15/month)
   - **Format**: Interactive Labs
   - **Rating**: ⭐⭐⭐⭐
-  - **Description**: Browser-based labs for practicing Argo Project tools and workflows. Subscription gives access to many other courses and are generally good.
+  - **Description**: Browser-based labs for practicing Argo CD. Subscription gives access to many other courses and are generally good. Does not contain all newer features like Application Sets.
 
 ### Books
 - [GitOps and Kubernetes by Billy Yuen](https://www.manning.com/books/gitops-and-kubernetes)
