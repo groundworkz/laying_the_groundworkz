@@ -83,12 +83,6 @@
   - **Rating**: ⭐⭐⭐⭐⭐
   - **Description**: Official Microsoft practice questions to gauge readiness.
 
-- [ExamTopics AZ-104](https://www.examtopics.com/exams/microsoft/az-104/)
-  - **Type**: FREE (Limited)
-  - **Format**: Practice Questions
-  - **Rating**: ⭐⭐⭐
-  - **Description**: Community-driven practice questions with discussions.
-
 ### Study Guides & Blogs
 - [AZ-104 Study Guide by Thomas Maurer](https://www.thomasmaurer.ch/2020/03/az-104-study-guide-azure-administrator/)
   - **Type**: FREE
